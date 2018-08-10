@@ -21,10 +21,10 @@
 #pragma comment(lib, "c:/LIBRARY/SOIL2/lib/soil2.lib")
 /******************************************************/
 
+DSA_HASH_ALGORITHM_SHA512;
+
 #include "OglRenderer.h"
 #include "OGLobject.h"
-
-#include <AclAPI.h>//
 
 #include "iostream"
 #include "c:/LIBRARY/glm/glm/mat4x4.hpp"
